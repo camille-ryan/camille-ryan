@@ -25,4 +25,4 @@ I turn fuzzy goals into working LLM systems that are tested, traceable, and cost
 
 ## Contact
 
-rdbrady@gmail.com
+rdbrady@gmail.com · [LinkedIn](https://www.linkedin.com/in/camille-ryan/)
